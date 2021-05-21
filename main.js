@@ -25,7 +25,7 @@ scoreRightWrist = 0;
 
 game_status = "";
 
-//var doggo_theme = new Audio("https://saantonandre.github.io/doggo_theme.wav");
+var doggo_theme = new Audio("https://saantonandre.github.io/doggo_theme.wav");
 
  function preload() {
   ball_touch_paddel = loadSound("ball_touch_paddel.wav");
